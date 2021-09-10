@@ -1,0 +1,21 @@
+{
+  "name": "simple-smoothing-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@umn-latis/simple-smoothing-spline": "^0.4.3",
+    "lodash": "^4.17.21",
+    "plotly.js-dist": "^2.5.0",
+    "vue": "^3.2.6",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.6.1",
+    "@vue/compiler-sfc": "^3.2.6",
+    "vite": "^2.5.4"
+  }
+}
